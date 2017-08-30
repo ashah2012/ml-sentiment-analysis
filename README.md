@@ -7,3 +7,4 @@ Take an input text.
 Find the polarity. 
 Also the confidence - suggests how much the model is confident about it's polarity. 
 
+Host the sentiment analysis tool and show metrics - documents process. Also expose the api for general usage. 
